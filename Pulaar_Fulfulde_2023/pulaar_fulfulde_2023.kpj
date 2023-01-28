@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProject>
+  <Options>
+    <BuildPath>$PROJECTPATH\build</BuildPath>
+    <CompilerWarningsAsErrors>True</CompilerWarningsAsErrors>
+    <WarnDeprecatedCode>True</WarnDeprecatedCode>
+    <CheckFilenameConventions>True</CheckFilenameConventions>
+    <ProjectType>keyboard</ProjectType>
+  </Options>
+  <Files>
+    <File>
+      <ID>id_22e0426af4a90699d7ee43334d68922f</ID>
+      <Filename>pulaar_fulfulde_2021.kmn</Filename>
+      <Filepath>source\pulaar_fulfulde_2021.kmn</Filepath>
+      <FileVersion>1.0</FileVersion>
+      <FileType>.kmn</FileType>
+      <Details>
+        <Name>Tappirde Pulaar Fulfulde 2021</Name>
+        <Copyright>© 2021 Ibrahima Malal Sarr - pulaar-fulfulde.org</Copyright>
+      </Details>
+    </File>
+    <File>
+      <ID>id_1c61c7f2ca2cde7eddd68f2fc7fb2e9e</ID>
+      <Filename>pulaar_fulfulde_2021.keyboard_info</Filename>
+      <Filepath>pulaar_fulfulde_2021.keyboard_info</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.keyboard_info</FileType>
+    </File>
+    <File>
+      <ID>id_1961a69f4200f4f221d208e6cdb37099</ID>
+      <Filename>pulaar_fulfulde_2021.kmp</Filename>
+      <Filepath>build\pulaar_fulfulde_2021.kmp</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.kmp</FileType>
+    </File>
+    <File>
+      <ID>id_418a5fb0ad523a3cbaec66e1fb0b86bf</ID>
+      <Filename>pulaar_fulfulde_2021.kps</Filename>
+      <Filepath>source\pulaar_fulfulde_2021.kps</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.kps</FileType>
+      <Details>
+        <Name>Pulaar-Fulfulde 2021</Name>
+        <Copyright>© 2021 PULAAR-FULFULDE.ORG</Copyright>
+      </Details>
+    </File>
+    <File>
+      <ID>id_2a3dbe669b945d17cca1dcba956b9b2e</ID>
+      <Filename>SawarabiGothic-Regular.ttf</Filename>
+      <Filepath>..\..\Shared\Fonts\SawarabiGothic-Regular.ttf</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <ID>id_03f1fbb3f7bded1f8e2e23c44cd57d85</ID>
+      <Filename>ibrahima_malal_sarr.fuc-latn-sn.fuc_2020.model.kps</Filename>
+      <Filepath>..\Pulaar-Fulfulde Lexical Model\ibrahima_malal_sarr.fuc-latn-sn.fuc_2020\ibrahima_malal_sarr.fuc-latn-sn.fuc_2020.model.kps</Filepath>
+      <FileVersion>1.0.1</FileVersion>
+      <FileType>.kps</FileType>
+      <Details>
+        <Name>Tappirde Pulaar-Fulfulde 2023</Name>
+        <Copyright>© 2023 PULAAGU MEDIA GROUP</Copyright>
+        <Version>1.0.1</Version>
+      </Details>
+    </File>
+    <File>
+      <ID>id_1512421dc87476b4e4026cdc89e48cad</ID>
+      <Filename>pulaar_fulfulde_2021.js</Filename>
+      <Filepath>build\pulaar_fulfulde_2021.js</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.js</FileType>
+      <ParentFileID>id_418a5fb0ad523a3cbaec66e1fb0b86bf</ParentFileID>
+    </File>
+    <File>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <Filename>readme.htm</Filename>
+      <Filepath>source\readme.htm</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.htm</FileType>
+      <ParentFileID>id_418a5fb0ad523a3cbaec66e1fb0b86bf</ParentFileID>
+    </File>
+    <File>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <Filename>welcome.htm</Filename>
+      <Filepath>source\welcome.htm</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.htm</FileType>
+      <ParentFileID>id_418a5fb0ad523a3cbaec66e1fb0b86bf</ParentFileID>
+    </File>
+    <File>
+      <ID>id_aae4a8c283b0611a9c5064736c89566c</ID>
+      <Filename>SawarabiGothic-Regular.ttf</Filename>
+      <Filepath>..\..\Shared\Fonts\SawarabiGothic-Regular.ttf</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.ttf</FileType>
+      <ParentFileID>id_418a5fb0ad523a3cbaec66e1fb0b86bf</ParentFileID>
+    </File>
+    <File>
+      <ID>id_f7d8bc17175fd81543ef450a78022fe2</ID>
+      <Filename>ibrahima_malal_sarr.fuc-latn-sn.fuc_2020.model.js</Filename>
+      <Filepath>..\Pulaar-Fulfulde Lexical Model\ibrahima_malal_sarr.fuc-latn-sn.fuc_2020\ibrahima_malal_sarr.fuc-latn-sn.fuc_2020.model.js</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.js</FileType>
+      <ParentFileID>id_03f1fbb3f7bded1f8e2e23c44cd57d85</ParentFileID>
+    </File>
+    <File>
+      <ID>id_5ee32c785ade156b46847740a3822471</ID>
+      <Filename>ibrahima_malal_sarr.fuc-latn-sn.fuc_2020.model.kmp</Filename>
+      <Filepath>..\Pulaar-Fulfulde Lexical Model\ibrahima_malal_sarr.fuc-latn-sn.fuc_2020\ibrahima_malal_sarr.fuc-latn-sn.fuc_2020.model.kmp</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.kmp</FileType>
+      <ParentFileID>id_03f1fbb3f7bded1f8e2e23c44cd57d85</ParentFileID>
+    </File>
+    <File>
+      <ID>id_ebc9e962b57feb5c6020555fc3f9f015</ID>
+      <Filename>ibrahima_malal_sarr.fuc-latn-sn.fuc_2020.model.ts</Filename>
+      <Filepath>..\Pulaar-Fulfulde Lexical Model\ibrahima_malal_sarr.fuc-latn-sn.fuc_2020\ibrahima_malal_sarr.fuc-latn-sn.fuc_2020.model.ts</Filepath>
+      <FileVersion>1.0</FileVersion>
+      <FileType>.ts</FileType>
+      <ParentFileID>id_03f1fbb3f7bded1f8e2e23c44cd57d85</ParentFileID>
+    </File>
+    <File>
+      <ID>id_91e528765fd016750f3cf8f03c381ba8</ID>
+      <Filename>ibrahima_malal_sarr.fuc-latn-sn.fuc_2020.model_info</Filename>
+      <Filepath>..\Pulaar-Fulfulde Lexical Model\ibrahima_malal_sarr.fuc-latn-sn.fuc_2020\ibrahima_malal_sarr.fuc-latn-sn.fuc_2020.model_info</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.model_info</FileType>
+      <ParentFileID>id_03f1fbb3f7bded1f8e2e23c44cd57d85</ParentFileID>
+    </File>
+  </Files>
+</KeymanDeveloperProject>
